@@ -4,8 +4,8 @@
 - ✅ Crear un proyecto en GitHub: **Tienda Simple**.
   - ✅ Usuarios: Registrar, editar y listar usuarios.
   - ✅ Ventas: productos, ventas y detalle de ventas.
-    - [x] Crear una venta.
     - ✅ Listar ventas.
+    - [x] Crear una venta.
     - [x] Opcional: Modal al darle click a una venta para ver el detalle.
 - ✅ README: Pasos de instalación.
 ## Frameworks a usar
